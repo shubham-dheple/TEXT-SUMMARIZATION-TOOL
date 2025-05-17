@@ -1,9 +1,15 @@
 # TEXT-SUMMARIZATION-TOOL
+
 *Company*:CODETECH IT SOLUTION
+
 *NAME*:Shubham Dheple
+
 *Intern ID *:C0DF277
+
 *DOMAIN*:AIML
+
 *DURATION*:4 weeks
+
 *Mentor*:NEELA SANTOSH
 
 The provided Python code demonstrates how to summarize a block of text using the Latent Semantic Analysis (LSA) technique from the sumy library. This script takes a longer input passage and extracts the most relevant sentences to generate a concise summary. Here’s a detailed breakdown of the code and its functionality:
